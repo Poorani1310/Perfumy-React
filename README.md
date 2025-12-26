@@ -83,7 +83,8 @@ In the end About us and a Footer is provided with the details about the Website.
 3. CSS
 4. HTML
 
-   Project link : 
+Project link : https://perfumy-react-five-gamma.vercel.app/
+Repository Link : https://github.com/Poorani1310/Perfumy-React/
 
    
 
