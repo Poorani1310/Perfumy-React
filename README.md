@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Perfumy-React
+Perfumy-React
+This is my first React Application.
+This React Application will have a NavBar and the list of Products in the site.
+And a search bar facility is provided.
+In the end About us and a Footer is provided with the details about the Website.
+
+**Technoloies Used: **
+1. JavaScript
+2. React
+3. CSS
+4. HTML
+
+   Project link : 
+
+   
+
+>>>>>>> c154b6088cf48c03c70a5ebf36a1d074e8d525a7
